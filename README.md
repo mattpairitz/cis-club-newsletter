@@ -3,7 +3,7 @@ A newsletter to CS majors at Grand Valley. Contains meeting information and othe
 
 ## 1. General Information
 CIS Computing Club
-* Where: EOS Lab MAK A-1-171
+* Where: EOS Lab MAK A-1-105
 * When: Thursday September 7th @ 6:00 pm (then every subsequent Thur. after that)
 [Facebook](https://www.facebook.com/groups/CISComputingClub/)
 [Twitter](https://twitter.com/gvcomputingclub)
